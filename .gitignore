@@ -1,0 +1,10 @@
+# Ignore build artifacts for C++
+*.o
+*.out
+*.exe
+/build/
+/bin/
+/obj/
+
+# macOS system files
+.DS_Store

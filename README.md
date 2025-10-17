@@ -5,3 +5,6 @@ This project demonstrates my new GitHub competency through watching YouTube guid
 1. Assignment8.cpp - main driver to read input and perform Kruskal's algorithm
 2. Edge.h - Header file to define an edge of the graph
 3. Graph.h - Header file to define the graph with an array of vertices and edges
+#How to Run:
+Compile: g++ Assignment8.cpp -o mst
+Run: ./mst
